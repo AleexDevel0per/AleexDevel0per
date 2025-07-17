@@ -8,7 +8,11 @@
   <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AleexDevel0per&layout=compact&hide_border=true&title_color=ffffff&text_color=c9d1d9&bg_color=0d1117" />
 </div>
 
-<img src="https://raw.githubusercontent.com/AleexDevel0per/AleexDevel0per/snake.yml" alt="Snake animation" />
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/AleexDevel0per/AleexDevel0per/output/pacman-contribution-graph-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/AleexDevel0per/AleexDevel0per/output/pacman-contribution-graph.svg">
+  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/AleexDevel0per/AleexDevel0per/output/pacman-contribution-graph.svg">
+</picture>
 
 ###
 
